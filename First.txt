@@ -1,0 +1,5 @@
+public class First{
+	public static void main(String [] argas){
+		S.o.pl("Hello World");
+}
+}
