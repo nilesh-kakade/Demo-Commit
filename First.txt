@@ -1,5 +1,5 @@
 public class First{
 	public static void main(String [] argas){
-		S.o.pl("Hello World");
+		Sysout.out.println("Hello World");
 }
 }
